@@ -10,8 +10,8 @@
 
 ### Day 1: April 5, 2018
 
-**Today's Progress**: 
+**Today's Progress**: So far, implemented CSS Grid and Flexbox as well as added images and styling including Materialize CSS helpful components.
 
-**Thoughts:** 
+**Thoughts:** Need to fix nav behavior and make sure jquery code is efficently affecting page transitions
 
 **Link to work:** pending
