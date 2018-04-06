@@ -15,3 +15,9 @@
 **Thoughts:** Need to fix nav behavior and make sure jquery code is efficently affecting page transitions. Things I need to learn include some extra jQuery functions or the vanilla JS alternatives. Other things include bringing in existing content from the site to my own version.
 
 **Link to work:** pending
+
+### Day 2: April 6, 2018
+
+**Today's Progress**: Working on JS basic algorithms as well as learning more in depth concepts such as hoisting, closures, etc. Also, need to go over a couple tutorials on AJAX/requests to be able to hook up API's to applications I want to work on. Finally, will try to leverage my design knowledge and resources to create a clean site from scratch that's also mobile friendly.
+
+**Thoughts:** TBD
