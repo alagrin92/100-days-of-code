@@ -20,4 +20,14 @@
 
 **Today's Progress**: Working on JS basic algorithms as well as learning more in depth concepts such as hoisting, closures, etc. Also, need to go over a couple tutorials on AJAX/requests to be able to hook up API's to applications I want to work on. Finally, will try to leverage my design knowledge and resources to create a clean site from scratch that's also mobile friendly.
 
-**Thoughts:** TBD
+### Day 3: April 7, 2018
+
+**Today's Progress**: Worked on JS algorithms further as well as coding a couple projects via Traversy's Youtube channel. Got a weight converter and address book type app to work within the browser via Vanilla JS as well as some HTML/CSS magic including Materialize. Brainstormed ideas for my next front end project. Will do a quote generator using React/Materialize as well as a component library, figure out an API to fetch data from and feed the app. Next will continue with Udemy course's weather app leveraging React and Redux.
+
+### Day 3: April 8, 2018
+
+**Today's Progress**: Worked on React app and finishing up basic JS algorithms. It was a more difficult endeavor but I ended up learning new methods such as call(), charAt(), using the Boolean argument, and nested for loops. App is on its way to completion upon some general fixes and addition of state and usage of AJAX/Fetch to be done as soon as I find a quote source.
+
+**Thoughts:** Get help with algorithms and data structures and start the Udemy course as well. Work on Responsive site again next and include interactive functionality. Start deploying new version of Portfolio. Will need to upload via FTP and implement routing for the PHP/ form content.
+
+
