@@ -30,4 +30,8 @@
 
 **Thoughts:** Get help with algorithms and data structures and start the Udemy course as well. Work on Responsive site again next and include interactive functionality. Start deploying new version of Portfolio. Will need to upload via FTP and implement routing for the PHP/ form content.
 
+### Day 8: April 15, 2018
 
+**Today's Progress**: At this mid month point, I've gotten deep into algorithm problems and the Udacity full stack nanodegree. Learned Python classes, methods, constructors and how to set up inheritance between classes. Next up, coding project for a movie trailer site to leverage server-side code to display movie trailers and information.
+
+**Thoughts:** Need input on Algo's and have to practice a bit with Python code to get the site done
